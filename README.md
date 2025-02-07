@@ -20,8 +20,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Enable Internet Information Services (IIS)
 - Install Web Platform Installer
 - Install MySQL and set up username and password
-- Finishih installing osTicket
-- Creat users and then set their permissions. Start create and resolving tickets.
+- Finish installing osTicket
+- Creat users and set their permissions. Start creating and resolving tickets.
 
 <h2>Installation Steps</h2>
 
@@ -29,7 +29,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/R2yR2zx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+In this image I have successfuly completed all the steps needed in order to run osTicket. This includes all the background pieces that ensure everything will run properly. My next step will be to create users and assign them roles along with setting their permissions. This is what determines who will be writing tickets and who will be resolving them. I am able to set all this up because I made myself the root user. 
 </p>
 <br />
 
