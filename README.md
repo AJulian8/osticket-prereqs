@@ -45,6 +45,6 @@ This example is where I created my users and set up their permissions. John and 
 <img src="https://i.imgur.com/s0qrtcT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-In this image is an actual ticket that was submitted by the user Karen. As we can see John is logged in and it would be his duty to pick up this ticket and respond to it however he sees fit. The severty of the ticket would also determiine how often he would have to check back in with the customer and what the next steps of action would be. Weather it be a quick fix that he could get done fairly quick or an issue that may require the help up his higher ups in his so called corporation.
+In this image is an actual ticket that was submitted by the user Karen. As we can see John is logged in and it would be his duty to pick up this ticket and respond to it however he sees fit. The severty of the ticket would also determiine how often he would have to check back in with the customer and what the next steps of action would be. Weather it be a quick fix he could handle or an issue that may require the help up his higher ups in his so called corporation.
 </p>
 <br />
