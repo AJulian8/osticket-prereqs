@@ -56,3 +56,10 @@ Next from that same osTicket file we want to then install PHP manager.
 A couple steps we took before this was installing the rewrite module and creating a "PHP" folder on the C drive which we see opened in this image.
 </p>
 <br />
+
+<img src="https://i.imgur.com/C4ilEAL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+A couple steps we took before this was installing the rewrite module and creating a "PHP" folder on the C drive which we see opened in this image.
+</p>
+<br />
