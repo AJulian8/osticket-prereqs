@@ -67,6 +67,6 @@ Wrapping up all the downloads from that extracted file we downloaded VC- Redist 
 <img src="https://i.imgur.com/J24S8JF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Wrapping up all the downloads from that extracted file we downloaded VC- Redist and MySQL changed it to a typical setup launched it and created our username and password. Now weve opened IIS as a admin and registered PHP from within IIS we then want to reload it to make sure everything worked properly.
+Next we installed osTicket in the wwwroot folder on the C drive and changed the name of the file to osTicket.
 </p>
 <br />
