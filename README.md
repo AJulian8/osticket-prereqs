@@ -74,6 +74,6 @@ Next we installed osTicket in the wwwroot folder on the C drive and changed the 
 <img src="https://i.imgur.com/7CzMHdw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Next we installed osTicket in the wwwroot folder on the C drive and changed the name of the file to osTicket.
+So after opening opening sites and then the osTicket folder in IIS manager we noticed we had some extentions that we needed to add. Which is what we see here the php_imap.dll,  php_intl.dll, and php_opcache.dll have been enabled.
 </p>
 <br />
