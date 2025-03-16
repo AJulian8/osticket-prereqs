@@ -88,6 +88,6 @@ In this image we can see that majority of the osTicket installer page is checked
 <img src="https://i.imgur.com/c4CwXRR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-In this image we can see that majority of the osTicket installer page is checked, which is great! Now we just have a few more steps which are set up some permissions, name our helpdesk, and install HeidiSQL. After that well be able to sign in and use osTicket!
+Here we gave everyone full control on the permissions which would't be recommended for a secure business setup but for this intance it will work just fine.
 </p>
 <br />
