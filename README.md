@@ -109,7 +109,7 @@ When you see this osTicket is set up correctly and good to go!
 <img src="https://i.imgur.com/2qn4sNg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-When you see this osTicket is set up correctly and good to go!
+This is what osTicket will look like when you log in on the login page.
 </p>
 <br />
 
