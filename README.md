@@ -70,3 +70,10 @@ Wrapping up all the downloads from that extracted file we downloaded VC- Redist 
 Next we installed osTicket in the wwwroot folder on the C drive and changed the name of the file to osTicket.
 </p>
 <br />
+
+<img src="https://i.imgur.com/7CzMHdw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Next we installed osTicket in the wwwroot folder on the C drive and changed the name of the file to osTicket.
+</p>
+<br />
