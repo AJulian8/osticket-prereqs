@@ -84,3 +84,10 @@ So after opening opening sites and then the osTicket folder in IIS manager we no
 In this image we can see that majority of the osTicket installer page is checked, which is great! Now we just have a few more steps which are set up some permissions, name our helpdesk, and install HeidiSQL. After that well be able to sign in and use osTicket!
 </p>
 <br />
+
+<img src="https://i.imgur.com/c4CwXRR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+In this image we can see that majority of the osTicket installer page is checked, which is great! Now we just have a few more steps which are set up some permissions, name our helpdesk, and install HeidiSQL. After that well be able to sign in and use osTicket!
+</p>
+<br />
