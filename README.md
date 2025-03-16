@@ -95,6 +95,14 @@ Here we gave everyone full control on the permissions which would't be recommend
 <img src="https://i.imgur.com/JUYE9ZZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Here we gave everyone full control on the permissions which would't be recommended for a secure business setup but for this intance it will work just fine.
+Here we downloaded HeidiSQL and opened it created a session then connected to our session. We then created a database and named it osTicket and we can see that everything is there and good to go.
 </p>
 <br />
+
+<img src="https://i.imgur.com/URXJWFO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+When you see this osTicket is set up correctly and good to go!
+</p>
+<br />
+
