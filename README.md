@@ -91,3 +91,10 @@ In this image we can see that majority of the osTicket installer page is checked
 Here we gave everyone full control on the permissions which would't be recommended for a secure business setup but for this intance it will work just fine.
 </p>
 <br />
+
+<img src="https://i.imgur.com/JUYE9ZZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Here we gave everyone full control on the permissions which would't be recommended for a secure business setup but for this intance it will work just fine.
+</p>
+<br />
