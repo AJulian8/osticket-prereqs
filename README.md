@@ -81,6 +81,6 @@ So after opening opening sites and then the osTicket folder in IIS manager we no
 <img src="https://i.imgur.com/ebMFwBT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-So after opening opening sites and then the osTicket folder in IIS manager we noticed we had some extentions that we needed to add. Which is what we see here the php_imap.dll,  php_intl.dll, and php_opcache.dll have been enabled.
+In this image we can see that majority of the osTicket installer page is checked, which is great! Now we just have a few more steps which are set up some permissions, name our helpdesk, and install HeidiSQL. After that well be able to sign in and use osTicket!
 </p>
 <br />
