@@ -38,7 +38,7 @@ So first things first I went and made a virtual machine in Microsft Azure and na
 <img src="https://i.imgur.com/kkIVG9p.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-In this example we have already extracted from a zip file and are now starting the process of setting up all the background necessities that osTicket needs to run properly. Here I am enableing IIS with CGI.
+In this example we have already extracted from a zip file and are now starting the process of setting up all the background necessities that osTicket needs to run properly. Here I am enabling IIS with CGI.
 </p>
 <br />
 
